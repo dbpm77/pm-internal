@@ -112,7 +112,7 @@ pre{
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
 
 /* OVERALL */
-body {font: normal 0.8em 'Muli', Lucida Sans Unicode, Lucida Grande, Verdana, Tahoma, Arial, Sans-serif; color: #666; background: #fff url('images/background.gif') repeat-x top center;}
+body {font: normal 0.8em 'Muli', Lucida Sans Unicode, Lucida Grande, Verdana, Tahoma, Arial, Sans-serif; color: #666;}
 body p {margin-bottom: 20px; line-height: 1.8em; word-wrap: break-word;}
 .container {margin: 10px auto; width: 1020px; overflow: hidden;}
 #header {position: relative; width: 1020px; margin: 0 auto; padding: 40px 0 0 0;}

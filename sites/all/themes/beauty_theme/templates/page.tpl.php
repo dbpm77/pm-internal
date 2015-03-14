@@ -156,7 +156,7 @@
   <div id="footer">
     <div id="copyright">
       <?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>, <a href="<?php print $front_page; ?>"><?php print $site_name; ?></a>
-      <div class="credit"><?php print t('Theme by'); ?>  <a href="http://www.devsaran.com" target="_blank">Devsaran</a></div>
+      <div class="credit"><?php print t('PMs'); ?>  <a href="http://google.com" target="_blank">United</a></div>
     </div>
   </div>
 
