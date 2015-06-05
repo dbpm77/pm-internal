@@ -1,4 +1,4 @@
-rest
+test
 CONTENTS OF THIS FILE
 ---------------------
 
