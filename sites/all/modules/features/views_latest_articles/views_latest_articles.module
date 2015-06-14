@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the views-latest-articles feature.
+ */
+
+include_once 'views_latest_articles.features.inc';
